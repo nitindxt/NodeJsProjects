@@ -20,4 +20,6 @@ and **organizing** them according to their file extensions in appropriate direct
 documents, videos, pictures, archives, others etc.
 through this project.
 
+<img src="https://media.giphy.com/media/wC4P0yFYqjXhK/giphy.gif" width="" height="">
+
 > Looking forward to learn more of NodeJs features and implementing them to solve real world problems one after another. 😁
