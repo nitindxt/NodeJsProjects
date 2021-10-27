@@ -10,9 +10,9 @@ and **organizing** them according to their file extensions in appropriate direct
 
 - [x] 4. Making this functionality **global** in command line by linking it to **npm**.
 
-<img src="https://media.giphy.com/media/l3IifybXvugAPaUVrR/giphy.gif" width="200" height="150">
 
-> This being my fist NodeJs project 😍 is very handy and useful in real life to organize files in a directory.
+
+> This being my fist NodeJs project 😍 is very handy and useful in real life to organize files in a directory.<img src="https://media.giphy.com/media/l3IifybXvugAPaUVrR/giphy.gif" width="200" height="150" align="right">
 
 <img src="https://media.giphy.com/media/9058ZMj6ooluP4UUPl/giphy.gif" width="350" height="300">
 
