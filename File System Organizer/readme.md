@@ -14,7 +14,7 @@ and **organizing** them according to their file extensions in appropriate direct
 
 > This being my fist NodeJs project 😍 is very handy and useful in real life to organize files in a directory.
 
-<img src="https://media.giphy.com/media/9058ZMj6ooluP4UUPl/giphy.gif" width="100" height="70" align="right">
+<img src="https://media.giphy.com/media/9058ZMj6ooluP4UUPl/giphy.gif" width="200" height="150" align="center">
 
 > I organized all my 100's of files in Downloads folder to respective folders such as apps,
 documents, videos, pictures, archives, others etc.
