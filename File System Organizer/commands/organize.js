@@ -1,5 +1,6 @@
 let fs = require("fs");
 let path = require("path");
+let utilityObj= require("../utility");
 function organizeFn(dirPath) {
     // console.log("organize command implemnted for ", dirPath);
     // 1. input -> directory path given
@@ -58,8 +59,8 @@ function sendFiles(srcFilePath, dest, category) {
 function getCategory(name) {
     let ext = path.extname(name);
     ext = ext.slice(1);
-    for (let type in types) {
-        let cTypeArray = types[type];
+    for (let type in utilityObj.types) {
+        let cTypeArray = utilityObj.types[type];
         for (let i = 0; i < cTypeArray.length; i++) {
             if (ext == cTypeArray[i]) {
                 return type;
