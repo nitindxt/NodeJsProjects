@@ -10,10 +10,14 @@ and **organizing** them according to their file extensions in appropriate direct
 
 - [x] 4. Making this functionality **global** in command line by linking it to **npm**.
 
-> This being my fist NodeJs project is very handy and useful in real life to organize files in a directory. 😍
+<img src="https://media.giphy.com/media/l3IifybXvugAPaUVrR/giphy.gif" width="100" height="70" align="right">
+
+> This being my fist NodeJs project 😍 is very handy and useful in real life to organize files in a directory.
+
+<img src="https://media.giphy.com/media/9058ZMj6ooluP4UUPl/giphy.gif" width="100" height="70" align="right">
 
 > I organized all my 100's of files in Downloads folder to respective folders such as apps,
 documents, videos, pictures, archives, others etc.
-through this project. 
+through this project.
 
 > Looking forward to learn more of NodeJs features and implementing them to solve real world problems one after another. 😁
