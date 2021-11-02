@@ -16,5 +16,5 @@ It is used to concatenate files and print on the standard output. (terminal)
 
 ## Edge cases to watch out for ⚠️:
 
-- [x] 1- If file entered is not found then it gives file doesn't exist! error.
-- [x] 2- If -n and -b both options are available together then command gives you an error.
+- [x] 1- If file entered is not found then it gives file doesn't exist error!
+- [x] 2- If -n and -b both options are available together then command gives you an error!
