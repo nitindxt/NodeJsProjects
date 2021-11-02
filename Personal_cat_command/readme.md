@@ -23,3 +23,4 @@ It is used to concatenate files and print on the standard output. (terminal)
 <img src="./screenshots/Screenshot 2021-11-02 072928.png/">
 
 <img src="./screenshots/Screenshot 2021-11-02 073722.png/">
+<img src="./screenshots/Screenshot 2021-11-02 074102.png">
