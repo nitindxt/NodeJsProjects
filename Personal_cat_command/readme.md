@@ -22,4 +22,4 @@ It is used to concatenate files and print on the standard output. (terminal)
 ## Screenshots :
 <img src="./screenshots/Screenshot 2021-11-02 072928.png/">
 
-<img src="./screenshots/Screenshot 2021-11-02 073722">
+<img src="./screenshots/Screenshot 2021-11-02 073722.png/">
