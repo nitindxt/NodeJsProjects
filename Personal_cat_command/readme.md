@@ -18,3 +18,6 @@ It is used to concatenate files and print on the standard output. (terminal)
 
 - [x] 1- If file entered is not found then it gives file doesn't exist error!
 - [x] 2- If -n and -b both options are available together then command gives you an error!
+
+## Screenshots :
+<img src="./screenshots/Screenshot 2021-11-02 072928.png/">
