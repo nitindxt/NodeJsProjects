@@ -6,7 +6,7 @@
 
 
 ## Screenshots :
-<img src="./screenshots/one.png">
+<img src="./screenshots/one.png" height=500>
 > www.worldometers.info website is used to scrape stats.
 <img src="./screenshots/second.png">
 > Terminal Screenshot
