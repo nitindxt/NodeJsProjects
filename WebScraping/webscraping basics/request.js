@@ -1,4 +1,4 @@
-const request= require("request");
+import request from "request";
 console.log("before");
 request('http://www.google.com',cb);
 function cb(error, response, body) {
