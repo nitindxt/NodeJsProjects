@@ -65,7 +65,5 @@ function extractHtml(html) {
         console.log(`${batsmanName}plays for ${teamName} and was born on ${birthDay[0]+birthDay[1]}.`);
     
     }
-    /*  console.log("Highest wicket taker from winning team:", hwtName);
-     console.log("Wickets taken:", hwt); */
 
 }
