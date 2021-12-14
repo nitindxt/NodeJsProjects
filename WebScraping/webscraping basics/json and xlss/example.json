@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Nitin Dixit",
+        "age": 23,
+        "isStudent": false,
+        "friends": [
+            "Kalash",
+            "Yash",
+            "Aditya",
+            "Yash"
+        ],
+        "address":{
+            "city": "Akola",
+            "state": "Maharashtra"
+        }
+
+    },
+
+    {
+        "name": "Yash",
+        "age": 23,
+        "isStudent": false,
+        "friends": [
+            "Kalash",
+            "Yash",
+            "Aditya",
+            "Yash"
+        ],
+        "address":{
+            "city": "Akola",
+            "state": "Maharashtra"
+        }
+
+    },
+    {
+        "name": "Aditya",
+        "age": 23,
+        "isStudent": false,
+        "friends": [
+            "Kalash",
+            "Yash",
+            "Aditya",
+            "Yash"
+        ],
+        "address":{
+            "city": "Akola",
+            "state": "Maharashtra"
+        }
+
+    },
+    {
+        "name": "Pratik",
+        "age": 23,
+        "isStudent": false,
+        "friends": [
+            "Kalash",
+            "Yash",
+            "Aditya",
+            "Yash"
+        ],
+        "address":{
+            "city": "Akola",
+            "state": "Maharashtra"
+        }
+
+    },
+    {
+        "name": "Sachin",
+        "age": 23,
+        "isStudent": false,
+        "friends": [
+            "Kalash",
+            "Yash",
+            "Aditya",
+            "Yash"
+        ],
+        "address":{
+            "city": "Akola",
+            "state": "Maharashtra"
+        }
+
+    }
+]
